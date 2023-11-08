@@ -1,4 +1,4 @@
-# WebSocket を利用した多人数プレイ対応のオンラインしりとりゲーム
+# WebSocket を利用した多人数プレイ対応のオンラインしりとりゲームだった物をこれから改造します
 
 WebSocket(Socket.IO)を利用した多人数対応のオンラインゲームのサンプルアプリです。
 解説記事は[こちら](https://qiita.com/mega_yadoran/items/eee7982a7f2b36c4ae0d)
